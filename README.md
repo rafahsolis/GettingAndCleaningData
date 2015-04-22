@@ -1,5 +1,8 @@
 # run_analysis.R #
-This R script reads downloaded data from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+This R script reads downloaded data from: http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
+
+The data set is described here:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Once the data has been downloaded and extracted, set:
 data_path <- "DIRECTORY EXTRACTED ZIP"
