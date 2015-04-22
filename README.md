@@ -9,7 +9,7 @@ data_path <- "DIRECTORY EXTRACTED ZIP"
 
 Then you can run the script that will create the file: tidy_data.txt in the directory specified above.
 
-tidy_data.txt variables:
+## tidy_data.txt variables:##
 The scritp will obtain all the mean and standard deviations from the motion sensors previously, and group them by the study subject and activity
 obtaining mean values.
 
