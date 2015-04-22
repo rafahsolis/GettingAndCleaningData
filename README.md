@@ -4,7 +4,7 @@ This R script reads downloaded data from: http://archive.ics.uci.edu/ml/machine-
 The data set is described here:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Once the data has been downloaded and extracted, set:
+Once the data has been downloaded and extracted, set:  
 data_path <- "DIRECTORY EXTRACTED ZIP"
 
 Then you can run the script that will create the file: tidy_data.txt in the directory specified above.
